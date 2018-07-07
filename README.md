@@ -1,2 +1,2 @@
-# Leet-Code-Problem-Solution-
-Leet Code Problem Solutions
+# Leet-Code-Problem-Solution
+My solution to Leet Code Problem Solutions in pyhon language
