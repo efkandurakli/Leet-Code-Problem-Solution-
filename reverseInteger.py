@@ -33,9 +33,6 @@ class Solution(object):
 
 
 
-
-
-
 sol = Solution()
 
 print(sol.reverse(1534236469))
